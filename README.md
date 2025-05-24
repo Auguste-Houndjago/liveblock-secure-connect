@@ -1,73 +1,25 @@
-# Welcome to your Lovable project
+https://user-images.githubusercontent.com/33033422/216776250-04ef297b-f61a-42ec-a7b9-b08e46dddf8f.mp4
 
-## Project info
+# [Next.js Starter Kit](https://liveblocks.io/starter-kit)
 
-**URL**: https://lovable.dev/projects/8056a176-330c-4b96-919c-22fa863b0639
+<p>
+  <a href="https://codesandbox.io/s/github/liveblocks/liveblocks/tree/main/starter-kits/nextjs-starter-kit">
+    <img src="https://img.shields.io/badge/open%20in%20codesandbox-message?style=flat&logo=codesandbox&color=333&logoColor=fff" alt="Open in CodeSandbox" />
+  </a>
+  <img src="https://img.shields.io/badge/react-message?style=flat&logo=react&color=0bd&logoColor=fff" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-message?style=flat&logo=next.js&color=07f&logoColor=fff" alt="Next.js" />
+</p>
 
-## How can I edit this code?
+Kickstart start your collaborative Next.js app with this starter kit.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- Documents dashboard with pagination, drafts, groups, auto-revalidation
+- Collaborative whiteboard app with a fully-featured share menu
+- Authentication compatible with GitHub, Google, Auth0, and more
+- Document permissions can be scoped to users, groups, and the public
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8056a176-330c-4b96-919c-22fa863b0639) and start prompting.
+## Get started
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8056a176-330c-4b96-919c-22fa863b0639) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+[Read the guide](http://liveblocks.io/docs/guides/nextjs-starter-kit) to get
+started.
