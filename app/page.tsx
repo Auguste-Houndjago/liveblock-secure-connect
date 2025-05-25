@@ -26,7 +26,7 @@ function Feature({ title, description, className, ...props }: FeatureProps) {
 export default async function Index() {
   const session = await auth();
 
-  // If logged in, go to dashboard
+  // If logged in, go to dashboard for auth users
   if (session) {
     redirect(DASHBOARD_URL);
   }
